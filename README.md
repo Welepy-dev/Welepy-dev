@@ -12,5 +12,5 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=welepy-dev&theme=hacker&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CMon&card_height=217&background=212121&stroke=69D862&ring=69D862&fire=69D862&currStreakNum=DCDCDC&sideNums=DCDCDC&currStreakLabel=DCDCDC&sideLabels=DCDCDC&dates=DCDCDC&excludeDaysLabel=DCDCDC)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=welepy-dev&theme=hacker&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CMon&card_width=400&card_height=217&background=212121&stroke=69D862&ring=69D862&fire=303030&currStreakNum=DCDCDC&sideNums=DCDCDC&currStreakLabel=DCDCDC&sideLabels=DCDCDC&dates=DCDCDC&excludeDaysLabel=DCDCDC)](https://git.io/streak-stats)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yh2csauqsghuex6vtuciz5x5ry&count=3)
