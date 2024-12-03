@@ -5,12 +5,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welepy-dev&layout=compact&theme=tokyonight&hide_title=false)  
 
 🔭 I’m currently working on a Vim Code Visualizer.  
-🌱 I’m currently learning Python, C and lua.  
-⚡ Fun fact: I'm learning lua just to configure my nvim.
+🌱 I’m currently learning Python, C and JavaScript.  
 
 ### Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/JavaScript/lua-original.svg" alt="Lua" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=welepy-dev&theme=hacker&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CMon&card_width=400&card_height=217&background=212121&stroke=69D862&ring=69D862&fire=303030&currStreakNum=DCDCDC&sideNums=DCDCDC&currStreakLabel=DCDCDC&sideLabels=DCDCDC&dates=DCDCDC&excludeDaysLabel=DCDCDC)](https://git.io/streak-stats)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yh2csauqsghuex6vtuciz5x5ry&count=3)
