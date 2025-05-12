@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welepy-dev&hide=issues,contribs&show_icons=true&theme=tokyonight&hide_title=true&line_height=31)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=welepy-dev&layout=compact&theme=tokyonight&hide_title=false)  
 
-🔭 I’m currently working on a Vim Code Visualizer.  
+🔭 I’m currently working on ....  
 🌱 I’m currently learning Python, C and JavaScript.  
 
 ### Languages
